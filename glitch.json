@@ -1,0 +1,4 @@
+{
+    "install": "cd server && npm install",
+    "start": "cd server && npm run build && npm start"
+}

@@ -1,0 +1,2054 @@
+{
+    "categories": [
+        {
+            "name": "Mâncare & Băuturi",
+            "words": [
+                {
+                    "secret": "Pizza",
+                    "impostor": "Shaorma"
+                },
+                {
+                    "secret": "Burger",
+                    "impostor": "Sandviș"
+                },
+                {
+                    "secret": "Colă",
+                    "impostor": "Pepsi"
+                },
+                {
+                    "secret": "Cafea",
+                    "impostor": "Ceai"
+                },
+                {
+                    "secret": "Bere",
+                    "impostor": "Vin"
+                },
+                {
+                    "secret": "Limonadă",
+                    "impostor": "Suc de portocale"
+                },
+                {
+                    "secret": "Înghețată",
+                    "impostor": "Iaurt"
+                },
+                {
+                    "secret": "Ciocolată",
+                    "impostor": "Nutella"
+                },
+                {
+                    "secret": "Paste",
+                    "impostor": "Lasagna"
+                },
+                {
+                    "secret": "Cartofi Prăjiți",
+                    "impostor": "Chipsuri"
+                },
+                {
+                    "secret": "Salată",
+                    "impostor": "Supă"
+                },
+                {
+                    "secret": "Măr",
+                    "impostor": "Pară"
+                },
+                {
+                    "secret": "Banane",
+                    "impostor": "Castraveți"
+                },
+                {
+                    "secret": "Portocală",
+                    "impostor": "Mandarină"
+                },
+                {
+                    "secret": "Căpșuni",
+                    "impostor": "Zmeură"
+                },
+                {
+                    "secret": "Pepene Roșu",
+                    "impostor": "Pepene Galben"
+                },
+                {
+                    "secret": "Pâine",
+                    "impostor": "Brioșă"
+                },
+                {
+                    "secret": "Clătite",
+                    "impostor": "Gofre"
+                },
+                {
+                    "secret": "Orez",
+                    "impostor": "Cuscun"
+                },
+                {
+                    "secret": "Lapte",
+                    "impostor": "Apă"
+                },
+                {
+                    "secret": "Unt",
+                    "impostor": "Margarina"
+                },
+                {
+                    "secret": "Miere",
+                    "impostor": "Dulceață"
+                },
+                {
+                    "secret": "Ketchup",
+                    "impostor": "Pastă de tomate"
+                },
+                {
+                    "secret": "Maioneză",
+                    "impostor": "Muștar"
+                },
+                {
+                    "secret": "Sare",
+                    "impostor": "Zahăr"
+                },
+                {
+                    "secret": "Piper",
+                    "impostor": "Boia"
+                },
+                {
+                    "secret": "Usturoi",
+                    "impostor": "Ceapă"
+                },
+                {
+                    "secret": "Ciuperci",
+                    "impostor": "Dovlecei"
+                },
+                {
+                    "secret": "Roșie",
+                    "impostor": "Ardei"
+                },
+                {
+                    "secret": "Ouă",
+                    "impostor": "Cartofi"
+                },
+                {
+                    "secret": "Șuncă",
+                    "impostor": "Salam"
+                },
+                {
+                    "secret": "Friptură",
+                    "impostor": "Grătar"
+                },
+                {
+                    "secret": "Somon",
+                    "impostor": "Ton"
+                },
+                {
+                    "secret": "Creveți",
+                    "impostor": "Raci"
+                },
+                {
+                    "secret": "Sushi",
+                    "impostor": "Sashimi"
+                },
+                {
+                    "secret": "Tort",
+                    "impostor": "Prăjitură"
+                },
+                {
+                    "secret": "Biscuiți",
+                    "impostor": "Fursecuri"
+                },
+                {
+                    "secret": "Gogoși",
+                    "impostor": "Papanași"
+                },
+                {
+                    "secret": "Croasant",
+                    "impostor": "Corn"
+                },
+                {
+                    "secret": "Nuci",
+                    "impostor": "Alune"
+                },
+                {
+                    "secret": "Fistic",
+                    "impostor": "Migdale"
+                },
+                {
+                    "secret": "Popcorn",
+                    "impostor": "Pufuleți"
+                },
+                {
+                    "secret": "Gumă de mestecat",
+                    "impostor": "Bomboane"
+                },
+                {
+                    "secret": "Vodcă",
+                    "impostor": "Țuică"
+                },
+                {
+                    "secret": "Whisky",
+                    "impostor": "Rom"
+                },
+                {
+                    "secret": "Șampanie",
+                    "impostor": "Prosecco"
+                },
+                {
+                    "secret": "Apa Plată",
+                    "impostor": "Apa Minerală"
+                },
+                {
+                    "secret": "Ciorbă",
+                    "impostor": "Tocăniță"
+                },
+                {
+                    "secret": "Sarmale",
+                    "impostor": "Ardei Umpluți"
+                },
+                {
+                    "secret": "Mămăligă",
+                    "impostor": "Piure"
+                }
+            ]
+        },
+        {
+            "name": "Animale",
+            "words": [
+                {
+                    "secret": "Câine",
+                    "impostor": "Lup"
+                },
+                {
+                    "secret": "Pisică",
+                    "impostor": "Tigru"
+                },
+                {
+                    "secret": "Leu",
+                    "impostor": "Leopard"
+                },
+                {
+                    "secret": "Cal",
+                    "impostor": "Măgar"
+                },
+                {
+                    "secret": "Vacă",
+                    "impostor": "Bivol"
+                },
+                {
+                    "secret": "Oaie",
+                    "impostor": "Capră"
+                },
+                {
+                    "secret": "Porc",
+                    "impostor": "Mistreț"
+                },
+                {
+                    "secret": "Găină",
+                    "impostor": "Rață"
+                },
+                {
+                    "secret": "Curcan",
+                    "impostor": "Gâscă"
+                },
+                {
+                    "secret": "Iepure",
+                    "impostor": "Veveriță"
+                },
+                {
+                    "secret": "Șoarece",
+                    "impostor": "Șobolan"
+                },
+                {
+                    "secret": "Hamster",
+                    "impostor": "Cobai"
+                },
+                {
+                    "secret": "Urs",
+                    "impostor": "Panda"
+                },
+                {
+                    "secret": "Vulpe",
+                    "impostor": "Câine"
+                },
+                {
+                    "secret": "Cerb",
+                    "impostor": "Căprioară"
+                },
+                {
+                    "secret": "Elan",
+                    "impostor": "Cerb"
+                },
+                {
+                    "secret": "Elefant",
+                    "impostor": "Rinocer"
+                },
+                {
+                    "secret": "Girafă",
+                    "impostor": "Zebra"
+                },
+                {
+                    "secret": "Hipopotam",
+                    "impostor": "Elefant"
+                },
+                {
+                    "secret": "Maimuță",
+                    "impostor": "Gorilă"
+                },
+                {
+                    "secret": "Cimpanzeu",
+                    "impostor": "Om"
+                },
+                {
+                    "secret": "Delfin",
+                    "impostor": "Balenă"
+                },
+                {
+                    "secret": "Rechin",
+                    "impostor": "Delfin"
+                },
+                {
+                    "secret": "Focă",
+                    "impostor": "Morsă"
+                },
+                {
+                    "secret": "Pinguin",
+                    "impostor": "Pelican"
+                },
+                {
+                    "secret": "Vultur",
+                    "impostor": "Șoim"
+                },
+                {
+                    "secret": "Bufniță",
+                    "impostor": "Liliac"
+                },
+                {
+                    "secret": "Porumbel",
+                    "impostor": "Vrăbiuță"
+                },
+                {
+                    "secret": "Papagal",
+                    "impostor": "Păun"
+                },
+                {
+                    "secret": "Lebădă",
+                    "impostor": "Rață"
+                },
+                {
+                    "secret": "Broască",
+                    "impostor": "Broască Țestoasă"
+                },
+                {
+                    "secret": "Șarpe",
+                    "impostor": "Șopârlă"
+                },
+                {
+                    "secret": "Crocodil",
+                    "impostor": "Aligator"
+                },
+                {
+                    "secret": "Pește",
+                    "impostor": "Sirenă"
+                },
+                {
+                    "secret": "Melc",
+                    "impostor": "Râmă"
+                },
+                {
+                    "secret": "Fluture",
+                    "impostor": "Molie"
+                },
+                {
+                    "secret": "Albină",
+                    "impostor": "Viespe"
+                },
+                {
+                    "secret": "Furnică",
+                    "impostor": "Păianjen"
+                },
+                {
+                    "secret": "Țânțar",
+                    "impostor": "Muscă"
+                },
+                {
+                    "secret": "Gândac",
+                    "impostor": "Greier"
+                },
+                {
+                    "secret": "Scorpion",
+                    "impostor": "Crab"
+                },
+                {
+                    "secret": "Caracatiță",
+                    "impostor": "Calamar"
+                },
+                {
+                    "secret": "Meduză",
+                    "impostor": "Pungă de plastic"
+                },
+                {
+                    "secret": "Lup",
+                    "impostor": "Husky"
+                },
+                {
+                    "secret": "Leu",
+                    "impostor": "Pisică"
+                },
+                {
+                    "secret": "Arici",
+                    "impostor": "Porc spinos"
+                },
+                {
+                    "secret": "Cangur",
+                    "impostor": "Iepure"
+                },
+                {
+                    "secret": "Koala",
+                    "impostor": "Ursuleț de pluș"
+                },
+                {
+                    "secret": "Miro",
+                    "impostor": "Pisică"
+                },
+                {
+                    "secret": "Dinozaur",
+                    "impostor": "Dragon"
+                }
+            ]
+        },
+        {
+            "name": "Locuri",
+            "words": [
+                {
+                    "secret": "Școală",
+                    "impostor": "Grădiniță"
+                },
+                {
+                    "secret": "Liceu",
+                    "impostor": "Facultate"
+                },
+                {
+                    "secret": "Spital",
+                    "impostor": "Farmacie"
+                },
+                {
+                    "secret": "Biserică",
+                    "impostor": "Mănăstire"
+                },
+                {
+                    "secret": "Parc",
+                    "impostor": "Pădure"
+                },
+                {
+                    "secret": "Plajă",
+                    "impostor": "Piscină"
+                },
+                {
+                    "secret": "Munte",
+                    "impostor": "Deal"
+                },
+                {
+                    "secret": "Mare",
+                    "impostor": "Ocean"
+                },
+                {
+                    "secret": "Lac",
+                    "impostor": "Râu"
+                },
+                {
+                    "secret": "Deșert",
+                    "impostor": "Plajă"
+                },
+                {
+                    "secret": "Oraș",
+                    "impostor": "Sat"
+                },
+                {
+                    "secret": "Mall",
+                    "impostor": "Piață"
+                },
+                {
+                    "secret": "Supermarket",
+                    "impostor": "Magazin de colț"
+                },
+                {
+                    "secret": "Restaurant",
+                    "impostor": "Cantină"
+                },
+                {
+                    "secret": "Cafenea",
+                    "impostor": "Bar"
+                },
+                {
+                    "secret": "Cinema",
+                    "impostor": "Teatru"
+                },
+                {
+                    "secret": "Muzeu",
+                    "impostor": "Bibliotecă"
+                },
+                {
+                    "secret": "Stadion",
+                    "impostor": "Sală de sport"
+                },
+                {
+                    "secret": "Aeroport",
+                    "impostor": "Gară"
+                },
+                {
+                    "secret": "Stație de autobuz",
+                    "impostor": "Stație de metrou"
+                },
+                {
+                    "secret": "Hotel",
+                    "impostor": "Pensiune"
+                },
+                {
+                    "secret": "Casă",
+                    "impostor": "Apartament"
+                },
+                {
+                    "secret": "Bucătărie",
+                    "impostor": "Sufragerie"
+                },
+                {
+                    "secret": "Baie",
+                    "impostor": "Toaletă publică"
+                },
+                {
+                    "secret": "Dormitor",
+                    "impostor": "Cameră de hotel"
+                },
+                {
+                    "secret": "Balcon",
+                    "impostor": "Terasă"
+                },
+                {
+                    "secret": "Grădină",
+                    "impostor": "Parc"
+                },
+                {
+                    "secret": "Birou",
+                    "impostor": "Bibliotecă"
+                },
+                {
+                    "secret": "Închisoare",
+                    "impostor": "Școală"
+                },
+                {
+                    "secret": "Grădina Zoologică",
+                    "impostor": "Fermă"
+                },
+                {
+                    "secret": "Circ",
+                    "impostor": "Teatru"
+                },
+                {
+                    "secret": "Discotecă",
+                    "impostor": "Nuntă"
+                },
+                {
+                    "secret": "Cimitir",
+                    "impostor": "Parc"
+                },
+                {
+                    "secret": "Bancă",
+                    "impostor": "Cazinou"
+                },
+                {
+                    "secret": "Farmacie",
+                    "impostor": "Drogherie"
+                },
+                {
+                    "secret": "Frizerie",
+                    "impostor": "Salon de înfrumusețare"
+                },
+                {
+                    "secret": "Garaj",
+                    "impostor": "Parcare"
+                },
+                {
+                    "secret": "Pod",
+                    "impostor": "Tunel"
+                },
+                {
+                    "secret": "Castel",
+                    "impostor": "Palat"
+                },
+                {
+                    "secret": "Turn",
+                    "impostor": "Bloc"
+                },
+                {
+                    "secret": "Peșteră",
+                    "impostor": "Pivniță"
+                },
+                {
+                    "secret": "Insulă",
+                    "impostor": "Peninsulă"
+                },
+                {
+                    "secret": "Vulcan",
+                    "impostor": "Munte"
+                },
+                {
+                    "secret": "Cascadă",
+                    "impostor": "Duș"
+                },
+                {
+                    "secret": "Junglă",
+                    "impostor": "Pădure"
+                },
+                {
+                    "secret": "Polul Nord",
+                    "impostor": "Frigider"
+                },
+                {
+                    "secret": "Lună",
+                    "impostor": "Soare"
+                },
+                {
+                    "secret": "Rai",
+                    "impostor": "Iad"
+                },
+                {
+                    "secret": "România",
+                    "impostor": "Europa"
+                },
+                {
+                    "secret": "București",
+                    "impostor": "Cluj"
+                }
+            ]
+        },
+        {
+            "name": "Obiecte Casnice",
+            "words": [
+                {
+                    "secret": "Telefon",
+                    "impostor": "Tabletă"
+                },
+                {
+                    "secret": "Laptop",
+                    "impostor": "Calculator"
+                },
+                {
+                    "secret": "Televizor",
+                    "impostor": "Monitor"
+                },
+                {
+                    "secret": "Telecomandă",
+                    "impostor": "Joystick"
+                },
+                {
+                    "secret": "Ceas",
+                    "impostor": "Brățară"
+                },
+                {
+                    "secret": "Ochelari",
+                    "impostor": "Lupă"
+                },
+                {
+                    "secret": "Cheie",
+                    "impostor": "Card"
+                },
+                {
+                    "secret": "Portofel",
+                    "impostor": "Buzunar"
+                },
+                {
+                    "secret": "Geantă",
+                    "impostor": "Rucsac"
+                },
+                {
+                    "secret": "Umbrelă",
+                    "impostor": "Pelerină"
+                },
+                {
+                    "secret": "Cuțit",
+                    "impostor": "Briceag"
+                },
+                {
+                    "secret": "Furculiță",
+                    "impostor": "Lingură"
+                },
+                {
+                    "secret": "Farfurie",
+                    "impostor": "Bol"
+                },
+                {
+                    "secret": "Pahar",
+                    "impostor": "Cană"
+                },
+                {
+                    "secret": "Sticlă",
+                    "impostor": "Termos"
+                },
+                {
+                    "secret": "Oală",
+                    "impostor": "Tigaie"
+                },
+                {
+                    "secret": "Aragaz",
+                    "impostor": "Cuptor"
+                },
+                {
+                    "secret": "Frigider",
+                    "impostor": "Dulap"
+                },
+                {
+                    "secret": "Mașina de spălat",
+                    "impostor": "Chiuvetă"
+                },
+                {
+                    "secret": "Mătură",
+                    "impostor": "Aspirator"
+                },
+                {
+                    "secret": "Găleată",
+                    "impostor": "Lighean"
+                },
+                {
+                    "secret": "Săpun",
+                    "impostor": "Gel de duș"
+                },
+                {
+                    "secret": "Prosop",
+                    "impostor": "Halat"
+                },
+                {
+                    "secret": "Periuță de dinți",
+                    "impostor": "Perie de păr"
+                },
+                {
+                    "secret": "Pastă de dinți",
+                    "impostor": "Cremă"
+                },
+                {
+                    "secret": "Oglindă",
+                    "impostor": "Geam"
+                },
+                {
+                    "secret": "Pat",
+                    "impostor": "Canapea"
+                },
+                {
+                    "secret": "Pernă",
+                    "impostor": "Plapumă"
+                },
+                {
+                    "secret": "Scaun",
+                    "impostor": "Fotoliu"
+                },
+                {
+                    "secret": "Masă",
+                    "impostor": "Birou"
+                },
+                {
+                    "secret": "Covor",
+                    "impostor": "Parchet"
+                },
+                {
+                    "secret": "Perdea",
+                    "impostor": "Jaluzea"
+                },
+                {
+                    "secret": "Bec",
+                    "impostor": "Soare"
+                },
+                {
+                    "secret": "Lampă",
+                    "impostor": "Lumânare"
+                },
+                {
+                    "secret": "Pix",
+                    "impostor": "Creion"
+                },
+                {
+                    "secret": "Caiet",
+                    "impostor": "Carte"
+                },
+                {
+                    "secret": "Foaie",
+                    "impostor": "Șervețel"
+                },
+                {
+                    "secret": "Foarfecă",
+                    "impostor": "Cuțit"
+                },
+                {
+                    "secret": "Lipici",
+                    "impostor": "Bandă adezivă"
+                },
+                {
+                    "secret": "Brichetă",
+                    "impostor": "Chibrituri"
+                },
+                {
+                    "secret": "Țigară",
+                    "impostor": "Vape"
+                },
+                {
+                    "secret": "Scrumieră",
+                    "impostor": "Coș de gunoi"
+                },
+                {
+                    "secret": "Haine",
+                    "impostor": "Pijamale"
+                },
+                {
+                    "secret": "Pantofi",
+                    "impostor": "Adidași"
+                },
+                {
+                    "secret": "Șosete",
+                    "impostor": "Mănuși"
+                },
+                {
+                    "secret": "Tricou",
+                    "impostor": "Cămașă"
+                },
+                {
+                    "secret": "Pantaloni",
+                    "impostor": "Blugi"
+                },
+                {
+                    "secret": "Geacă",
+                    "impostor": "Hanorac"
+                },
+                {
+                    "secret": "Căciulă",
+                    "impostor": "Șapcă"
+                },
+                {
+                    "secret": "inel",
+                    "impostor": "Verighetă"
+                }
+            ]
+        },
+        {
+            "name": "Sport & Hobby",
+            "words": [
+                {
+                    "secret": "Fotbal",
+                    "impostor": "Handbal"
+                },
+                {
+                    "secret": "Baschet",
+                    "impostor": "Volei"
+                },
+                {
+                    "secret": "Tenis",
+                    "impostor": "Ping-Pong"
+                },
+                {
+                    "secret": "Înot",
+                    "impostor": "Baie"
+                },
+                {
+                    "secret": "Alergare",
+                    "impostor": "Mers"
+                },
+                {
+                    "secret": "Ciclism",
+                    "impostor": "Motociclism"
+                },
+                {
+                    "secret": "Schi",
+                    "impostor": "Sanie"
+                },
+                {
+                    "secret": "Patinaj",
+                    "impostor": "Role"
+                },
+                {
+                    "secret": "Box",
+                    "impostor": "Bătaie"
+                },
+                {
+                    "secret": "Lupte",
+                    "impostor": "Judo"
+                },
+                {
+                    "secret": "Karate",
+                    "impostor": "Kung Fu"
+                },
+                {
+                    "secret": "Dans",
+                    "impostor": "Gimnastică"
+                },
+                {
+                    "secret": "Șah",
+                    "impostor": "Table"
+                },
+                {
+                    "secret": "Cărți",
+                    "impostor": "Remi"
+                },
+                {
+                    "secret": "Poker",
+                    "impostor": "Barbut"
+                },
+                {
+                    "secret": "Puzzle",
+                    "impostor": "Lego"
+                },
+                {
+                    "secret": "Desen",
+                    "impostor": "Pictură"
+                },
+                {
+                    "secret": "Cântat",
+                    "impostor": "Vorbit"
+                },
+                {
+                    "secret": "Chitară",
+                    "impostor": "Vioară"
+                },
+                {
+                    "secret": "Pian",
+                    "impostor": "Orgă"
+                },
+                {
+                    "secret": "Tobe",
+                    "impostor": "Muzică"
+                },
+                {
+                    "secret": "Fotografie",
+                    "impostor": "Filmare"
+                },
+                {
+                    "secret": "Citit",
+                    "impostor": "Învățat"
+                },
+                {
+                    "secret": "Scris",
+                    "impostor": "Tastat"
+                },
+                {
+                    "secret": "Gaming",
+                    "impostor": "Programare"
+                },
+                {
+                    "secret": "Pescuit",
+                    "impostor": "Vânătoare"
+                },
+                {
+                    "secret": "Camping",
+                    "impostor": "Grătar"
+                },
+                {
+                    "secret": "Excursie",
+                    "impostor": "Plimbare"
+                },
+                {
+                    "secret": "Shopping",
+                    "impostor": "Plimbare"
+                },
+                {
+                    "secret": "Gătit",
+                    "impostor": "Mâncat"
+                },
+                {
+                    "secret": "Grădinărit",
+                    "impostor": "Agricultură"
+                },
+                {
+                    "secret": "Yoga",
+                    "impostor": "Somn"
+                },
+                {
+                    "secret": "Meditație",
+                    "impostor": "Gândire"
+                },
+                {
+                    "secret": "Biliard",
+                    "impostor": "Bowling"
+                },
+                {
+                    "secret": "Darts",
+                    "impostor": "Tir"
+                },
+                {
+                    "secret": "Escaladă",
+                    "impostor": "Urcat scări"
+                },
+                {
+                    "secret": "Parașutism",
+                    "impostor": "Săritură"
+                },
+                {
+                    "secret": "Surfing",
+                    "impostor": "Înot"
+                },
+                {
+                    "secret": "Skateboard",
+                    "impostor": "Trotinetă"
+                },
+                {
+                    "secret": "Bicicletă",
+                    "impostor": "Tricicletă"
+                },
+                {
+                    "secret": "Minge",
+                    "impostor": "Balon"
+                },
+                {
+                    "secret": "Rachetă",
+                    "impostor": "Bâtă"
+                },
+                {
+                    "secret": "Fluer",
+                    "impostor": "Cântec"
+                },
+                {
+                    "secret": "Echipă",
+                    "impostor": "Grup"
+                },
+                {
+                    "secret": "Gol",
+                    "impostor": "Punct"
+                },
+                {
+                    "secret": "Arbitru",
+                    "impostor": "Polițist"
+                },
+                {
+                    "secret": "Campion",
+                    "impostor": "Câștigător"
+                },
+                {
+                    "secret": "Medalie",
+                    "impostor": "Trofeu"
+                },
+                {
+                    "secret": "Antrenament",
+                    "impostor": "Muncă"
+                },
+                {
+                    "secret": "Suporter",
+                    "impostor": "Spectator"
+                }
+            ]
+        },
+        {
+            "name": "Meserii & Roluri",
+            "words": [
+                {
+                    "secret": "Doctor",
+                    "impostor": "Dentist"
+                },
+                {
+                    "secret": "Asistentă",
+                    "impostor": "Doctoriță"
+                },
+                {
+                    "secret": "Polițist",
+                    "impostor": "Paznic"
+                },
+                {
+                    "secret": "Pompier",
+                    "impostor": "Salvamar"
+                },
+                {
+                    "secret": "Profesor",
+                    "impostor": "Elev"
+                },
+                {
+                    "secret": "Elev",
+                    "impostor": "Student"
+                },
+                {
+                    "secret": "Avocat",
+                    "impostor": "Judecător"
+                },
+                {
+                    "secret": "Vânzător",
+                    "impostor": "Cumpărător"
+                },
+                {
+                    "secret": "Șofer",
+                    "impostor": "Pilot"
+                },
+                {
+                    "secret": "Bucătar",
+                    "impostor": "Ospătar"
+                },
+                {
+                    "secret": "Frizer",
+                    "impostor": "Coafeză"
+                },
+                {
+                    "secret": "Mecanic",
+                    "impostor": "Instalator"
+                },
+                {
+                    "secret": "Electrician",
+                    "impostor": "IT-ist"
+                },
+                {
+                    "secret": "Programator",
+                    "impostor": "Hacker"
+                },
+                {
+                    "secret": "Actor",
+                    "impostor": "Vedetă"
+                },
+                {
+                    "secret": "Cântăreț",
+                    "impostor": "Prezentator"
+                },
+                {
+                    "secret": "Pictor",
+                    "impostor": "Zugrav"
+                },
+                {
+                    "secret": "Scriitor",
+                    "impostor": "Jurnalist"
+                },
+                {
+                    "secret": "Fotograf",
+                    "impostor": "Cameraman"
+                },
+                {
+                    "secret": "Preot",
+                    "impostor": "Psiholog"
+                },
+                {
+                    "secret": "Primar",
+                    "impostor": "Președinte"
+                },
+                {
+                    "secret": "Rege",
+                    "impostor": "Președinte"
+                },
+                {
+                    "secret": "Soldat",
+                    "impostor": "Jandarm"
+                },
+                {
+                    "secret": "Spion",
+                    "impostor": "Detectiv"
+                },
+                {
+                    "secret": "Hoț",
+                    "impostor": "Politician"
+                },
+                {
+                    "secret": "Muncitor",
+                    "impostor": "Sclav"
+                },
+                {
+                    "secret": "Șef",
+                    "impostor": "Manager"
+                },
+                {
+                    "secret": "Coleg",
+                    "impostor": "Prieten"
+                },
+                {
+                    "secret": "Părinte",
+                    "impostor": "Profesor"
+                },
+                {
+                    "secret": "Mamă",
+                    "impostor": "Tată"
+                },
+                {
+                    "secret": "Frate",
+                    "impostor": "Văr"
+                },
+                {
+                    "secret": "Soț",
+                    "impostor": "Iubit"
+                },
+                {
+                    "secret": "Copil",
+                    "impostor": "Bebeluș"
+                },
+                {
+                    "secret": "Bunic",
+                    "impostor": "Moș Crăciun"
+                },
+                {
+                    "secret": "Vecin",
+                    "impostor": "Inamic"
+                },
+                {
+                    "secret": "Străin",
+                    "impostor": "Turist"
+                },
+                {
+                    "secret": "Musafir",
+                    "impostor": "Vizitator"
+                },
+                {
+                    "secret": "Călugăr",
+                    "impostor": "Sihastru"
+                },
+                {
+                    "secret": "Fermier",
+                    "impostor": "Țăran"
+                },
+                {
+                    "secret": "Pescari",
+                    "impostor": "Marinar"
+                },
+                {
+                    "secret": "Astronaut",
+                    "impostor": "Extraterestru"
+                },
+                {
+                    "secret": "Fantoma",
+                    "impostor": "Suflet"
+                },
+                {
+                    "secret": "Vampir",
+                    "impostor": "Liliac"
+                },
+                {
+                    "secret": "Zombi",
+                    "impostor": "Mort"
+                },
+                {
+                    "secret": "Vrăjitoare",
+                    "impostor": "Zână"
+                },
+                {
+                    "secret": "Supererou",
+                    "impostor": "Polițist"
+                },
+                {
+                    "secret": "Robot",
+                    "impostor": "Calculator"
+                },
+                {
+                    "secret": "Clovn",
+                    "impostor": "Joker"
+                },
+                {
+                    "secret": "Mim",
+                    "impostor": "Mut"
+                },
+                {
+                    "secret": "Gunoier",
+                    "impostor": "Măturător"
+                }
+            ]
+        },
+        {
+            "name": "Transport",
+            "words": [
+                {
+                    "secret": "Mașină",
+                    "impostor": "Taxi"
+                },
+                {
+                    "secret": "Autobuz",
+                    "impostor": "Tramvai"
+                },
+                {
+                    "secret": "Tren",
+                    "impostor": "Metrou"
+                },
+                {
+                    "secret": "Avion",
+                    "impostor": "Elicopter"
+                },
+                {
+                    "secret": "Bicicletă",
+                    "impostor": "Motocicletă"
+                },
+                {
+                    "secret": "Trotinetă",
+                    "impostor": "Bicicletă"
+                },
+                {
+                    "secret": "Barcă",
+                    "impostor": "Vapor"
+                },
+                {
+                    "secret": "Submarin",
+                    "impostor": "Pește"
+                },
+                {
+                    "secret": "Rachetă",
+                    "impostor": "Avion"
+                },
+                {
+                    "secret": "Căruță",
+                    "impostor": "Trăsură"
+                },
+                {
+                    "secret": "Camion",
+                    "impostor": "Tractor"
+                },
+                {
+                    "secret": "Dubă",
+                    "impostor": "Mașină"
+                },
+                {
+                    "secret": "Ambulanță",
+                    "impostor": "Mașină de Poliție"
+                },
+                {
+                    "secret": "Mașină de Pompieri",
+                    "impostor": "Camion"
+                },
+                {
+                    "secret": "Role",
+                    "impostor": "Patinaj"
+                },
+                {
+                    "secret": "Schiuri",
+                    "impostor": "Placă"
+                },
+                {
+                    "secret": "Lift",
+                    "impostor": "Scări"
+                },
+                {
+                    "secret": "Scări Rulante",
+                    "impostor": "Lift"
+                },
+                {
+                    "secret": "Telecabină",
+                    "impostor": "Telescaun"
+                },
+                {
+                    "secret": "Parașută",
+                    "impostor": "Umbrelă"
+                },
+                {
+                    "secret": "Cal",
+                    "impostor": "Măgar"
+                },
+                {
+                    "secret": "Cămilă",
+                    "impostor": "Cal"
+                },
+                {
+                    "secret": "Covor Zburător",
+                    "impostor": "Avion"
+                },
+                {
+                    "secret": "Mătură",
+                    "impostor": "Aspirator"
+                },
+                {
+                    "secret": "Teleportare",
+                    "impostor": "Fugă"
+                },
+                {
+                    "secret": "Mers pe jos",
+                    "impostor": "Alergat"
+                },
+                {
+                    "secret": "Autostop",
+                    "impostor": "Taxi"
+                },
+                {
+                    "secret": "Bilet",
+                    "impostor": "Abonament"
+                },
+                {
+                    "secret": "Permis",
+                    "impostor": "Buletin"
+                },
+                {
+                    "secret": "Volan",
+                    "impostor": "Ghidon"
+                },
+                {
+                    "secret": "Roată",
+                    "impostor": "Cerc"
+                },
+                {
+                    "secret": "Motor",
+                    "impostor": "Inimă"
+                },
+                {
+                    "secret": "Frână",
+                    "impostor": "Stop"
+                },
+                {
+                    "secret": "Semafor",
+                    "impostor": "Bec"
+                },
+                {
+                    "secret": "Zebra",
+                    "impostor": "Trecere"
+                },
+                {
+                    "secret": "Pod",
+                    "impostor": "Pasarelă"
+                },
+                {
+                    "secret": "Pistă",
+                    "impostor": "Drum"
+                },
+                {
+                    "secret": "Gară",
+                    "impostor": "Autogară"
+                },
+                {
+                    "secret": "Port",
+                    "impostor": "Plajă"
+                },
+                {
+                    "secret": "Parcare",
+                    "impostor": "Garaj"
+                },
+                {
+                    "secret": "Benzinărie",
+                    "impostor": "Magazin"
+                },
+                {
+                    "secret": "Trafic",
+                    "impostor": "Aglomerație"
+                },
+                {
+                    "secret": "Accident",
+                    "impostor": "Greșeală"
+                },
+                {
+                    "secret": "Amenda",
+                    "impostor": "Factură"
+                },
+                {
+                    "secret": "Viteză",
+                    "impostor": "Grăbire"
+                },
+                {
+                    "secret": "GPS",
+                    "impostor": "Hartă"
+                },
+                {
+                    "secret": "Uber",
+                    "impostor": "Taxi"
+                },
+                {
+                    "secret": "Bolt",
+                    "impostor": "Uber"
+                },
+                {
+                    "secret": "Tesla",
+                    "impostor": "Mașină electrică"
+                },
+                {
+                    "secret": "BMW",
+                    "impostor": "Mercedes"
+                }
+            ]
+        },
+        {
+            "name": "Natură & Vreme",
+            "words": [
+                {
+                    "secret": "Soare",
+                    "impostor": "Lună"
+                },
+                {
+                    "secret": "Ploaie",
+                    "impostor": "Ninsoare"
+                },
+                {
+                    "secret": "Nor",
+                    "impostor": "Fum"
+                },
+                {
+                    "secret": "Vânt",
+                    "impostor": "Curent"
+                },
+                {
+                    "secret": "Furtună",
+                    "impostor": "Ploaie"
+                },
+                {
+                    "secret": "Tunet",
+                    "impostor": "Sunet"
+                },
+                {
+                    "secret": "Fulger",
+                    "impostor": "Flash"
+                },
+                {
+                    "secret": "Curcubeu",
+                    "impostor": "Culori"
+                },
+                {
+                    "secret": "Zăpadă",
+                    "impostor": "Gheață"
+                },
+                {
+                    "secret": "Grindină",
+                    "impostor": "Pietre"
+                },
+                {
+                    "secret": "Ceață",
+                    "impostor": "Abur"
+                },
+                {
+                    "secret": "Rouă",
+                    "impostor": "Apă"
+                },
+                {
+                    "secret": "Frig",
+                    "impostor": "Răcoare"
+                },
+                {
+                    "secret": "Cald",
+                    "impostor": "Fierbinte"
+                },
+                {
+                    "secret": "Caniculă",
+                    "impostor": "Vară"
+                },
+                {
+                    "secret": "Ger",
+                    "impostor": "Iarnă"
+                },
+                {
+                    "secret": "Munte",
+                    "impostor": "Stâncă"
+                },
+                {
+                    "secret": "Deal",
+                    "impostor": "Munte"
+                },
+                {
+                    "secret": "Câmpie",
+                    "impostor": "Iarbă"
+                },
+                {
+                    "secret": "Pădure",
+                    "impostor": "Copaci"
+                },
+                {
+                    "secret": "Junglă",
+                    "impostor": "Pădure tropicală"
+                },
+                {
+                    "secret": "Deșert",
+                    "impostor": "Nisip"
+                },
+                {
+                    "secret": "Mare",
+                    "impostor": "Lac"
+                },
+                {
+                    "secret": "Ocean",
+                    "impostor": "Mare"
+                },
+                {
+                    "secret": "Râu",
+                    "impostor": "Pârâu"
+                },
+                {
+                    "secret": "Cascadă",
+                    "impostor": "Robinet"
+                },
+                {
+                    "secret": "Val",
+                    "impostor": "Apă"
+                },
+                {
+                    "secret": "Plajă",
+                    "impostor": "Mal"
+                },
+                {
+                    "secret": "Insulă",
+                    "impostor": "Continent"
+                },
+                {
+                    "secret": "Vulcan",
+                    "impostor": "Explozie"
+                },
+                {
+                    "secret": "Cutremur",
+                    "impostor": "Vibrație"
+                },
+                {
+                    "secret": "Foc",
+                    "impostor": "Lumină"
+                },
+                {
+                    "secret": "Apa",
+                    "impostor": "Lichid"
+                },
+                {
+                    "secret": "Aer",
+                    "impostor": "Oxigen"
+                },
+                {
+                    "secret": "Pământ",
+                    "impostor": "Noroi"
+                },
+                {
+                    "secret": "Floare",
+                    "impostor": "Trandafir"
+                },
+                {
+                    "secret": "Copac",
+                    "impostor": "Brad"
+                },
+                {
+                    "secret": "Iarbă",
+                    "impostor": "Gazon"
+                },
+                {
+                    "secret": "Frunză",
+                    "impostor": "Hartie"
+                },
+                {
+                    "secret": "Piatră",
+                    "impostor": "Cărămidă"
+                },
+                {
+                    "secret": "Nisip",
+                    "impostor": "Praf"
+                },
+                {
+                    "secret": "Stea",
+                    "impostor": "Luceafăr"
+                },
+                {
+                    "secret": "Cer",
+                    "impostor": "Tavan"
+                },
+                {
+                    "secret": "Univers",
+                    "impostor": "Lume"
+                },
+                {
+                    "secret": "Zi",
+                    "impostor": "Lumină"
+                },
+                {
+                    "secret": "Noapte",
+                    "impostor": "Întuneric"
+                },
+                {
+                    "secret": "Dimineață",
+                    "impostor": "Răsărit"
+                },
+                {
+                    "secret": "Seară",
+                    "impostor": "Apus"
+                },
+                {
+                    "secret": "Anotimp",
+                    "impostor": "Vreme"
+                },
+                {
+                    "secret": "Primăvară",
+                    "impostor": "Ghiocei"
+                }
+            ]
+        },
+        {
+            "name": "Filme & Media",
+            "words": [
+                {
+                    "secret": "Comedie",
+                    "impostor": "Film"
+                },
+                {
+                    "secret": "Horror",
+                    "impostor": "Thriller"
+                },
+                {
+                    "secret": "Desene Animate",
+                    "impostor": "Anime"
+                },
+                {
+                    "secret": "Știri",
+                    "impostor": "Ziar"
+                },
+                {
+                    "secret": "Documentar",
+                    "impostor": "Lecție"
+                },
+                {
+                    "secret": "Youtube",
+                    "impostor": "TikTok"
+                },
+                {
+                    "secret": "Instagram",
+                    "impostor": "Facebook"
+                },
+                {
+                    "secret": "Netflix",
+                    "impostor": "TV"
+                },
+                {
+                    "secret": "Cinema",
+                    "impostor": "Televizor"
+                },
+                {
+                    "secret": "Actor",
+                    "impostor": "Mincinos"
+                },
+                {
+                    "secret": "Regizor",
+                    "impostor": "Șef"
+                },
+                {
+                    "secret": "Scenariu",
+                    "impostor": "Poveste"
+                },
+                {
+                    "secret": "Oscar",
+                    "impostor": "Aur"
+                },
+                {
+                    "secret": "Hollywood",
+                    "impostor": "America"
+                },
+                {
+                    "secret": "Harry Potter",
+                    "impostor": "Vrăjitor"
+                },
+                {
+                    "secret": "Stăpânul Inelelor",
+                    "impostor": "Hobbit"
+                },
+                {
+                    "secret": "Star Wars",
+                    "impostor": "Star Trek"
+                },
+                {
+                    "secret": "Spider-Man",
+                    "impostor": "Muscă"
+                },
+                {
+                    "secret": "Batman",
+                    "impostor": "Liliac"
+                },
+                {
+                    "secret": "Superman",
+                    "impostor": "Erou"
+                },
+                {
+                    "secret": "Joker",
+                    "impostor": "Clovn"
+                },
+                {
+                    "secret": "Titanic",
+                    "impostor": "Vapor"
+                },
+                {
+                    "secret": "Avatar",
+                    "impostor": "Extraterestru"
+                },
+                {
+                    "secret": "Shrek",
+                    "impostor": "Monstru"
+                },
+                {
+                    "secret": "Mickey Mouse",
+                    "impostor": "Șoarece"
+                },
+                {
+                    "secret": "Tom și Jerry",
+                    "impostor": "Pisică și Șoarece"
+                },
+                {
+                    "secret": "Las Fierbinți",
+                    "impostor": "Sat"
+                },
+                {
+                    "secret": "Muzică",
+                    "impostor": "Radio"
+                },
+                {
+                    "secret": "Concert",
+                    "impostor": "Festival"
+                },
+                {
+                    "secret": "Manon",
+                    "impostor": "Lăutar"
+                },
+                {
+                    "secret": "Trap",
+                    "impostor": "Rap"
+                },
+                {
+                    "secret": "Rock",
+                    "impostor": "Metal"
+                },
+                {
+                    "secret": "Pop",
+                    "impostor": "Muzică ușoară"
+                },
+                {
+                    "secret": "Manele",
+                    "impostor": "Muzică de petrecere"
+                },
+                {
+                    "secret": "Dans",
+                    "impostor": "Mișcare"
+                },
+                {
+                    "secret": "Balet",
+                    "impostor": "Dans"
+                },
+                {
+                    "secret": "Tango",
+                    "impostor": "Dans în doi"
+                },
+                {
+                    "secret": "Teatru",
+                    "impostor": "Piesă"
+                },
+                {
+                    "secret": "Circ",
+                    "impostor": "Spectacol"
+                },
+                {
+                    "secret": "Magie",
+                    "impostor": "Truc"
+                },
+                {
+                    "secret": "Carte",
+                    "impostor": "E-book"
+                },
+                {
+                    "secret": "Poezie",
+                    "impostor": "Rimă"
+                },
+                {
+                    "secret": "Poveste",
+                    "impostor": "Minciună"
+                },
+                {
+                    "secret": "Legendă",
+                    "impostor": "Mit"
+                },
+                {
+                    "secret": "Ziar",
+                    "impostor": "Revistă"
+                },
+                {
+                    "secret": "Reclamă",
+                    "impostor": "Pauză"
+                },
+                {
+                    "secret": "Internet",
+                    "impostor": "Wi-Fi"
+                },
+                {
+                    "secret": "Google",
+                    "impostor": "Internet"
+                },
+                {
+                    "secret": "Telefon",
+                    "impostor": "Ecran"
+                },
+                {
+                    "secret": "Mesaj",
+                    "impostor": "Scrisoare"
+                }
+            ]
+        },
+        {
+            "name": "Emoții & Concepte",
+            "words": [
+                {
+                    "secret": "Iubire",
+                    "impostor": "Prietenie"
+                },
+                {
+                    "secret": "Ură",
+                    "impostor": "Supărare"
+                },
+                {
+                    "secret": "Fericire",
+                    "impostor": "Bucurie"
+                },
+                {
+                    "secret": "Tristețe",
+                    "impostor": "Depresie"
+                },
+                {
+                    "secret": "Frică",
+                    "impostor": "Panică"
+                },
+                {
+                    "secret": "Curaj",
+                    "impostor": "Tupeu"
+                },
+                {
+                    "secret": "Minciună",
+                    "impostor": "Adevăr"
+                },
+                {
+                    "secret": "Secret",
+                    "impostor": "Bârfă"
+                },
+                {
+                    "secret": "Vis",
+                    "impostor": "Coșmar"
+                },
+                {
+                    "secret": "Gând",
+                    "impostor": "Idee"
+                },
+                {
+                    "secret": "Amintire",
+                    "impostor": "Poză"
+                },
+                {
+                    "secret": "Timp",
+                    "impostor": "Ceas"
+                },
+                {
+                    "secret": "Viață",
+                    "impostor": "Destin"
+                },
+                {
+                    "secret": "Moarte",
+                    "impostor": "Somn"
+                },
+                {
+                    "secret": "Noroc",
+                    "impostor": "Soartă"
+                },
+                {
+                    "secret": "Ghinion",
+                    "impostor": "Accident"
+                },
+                {
+                    "secret": "Putere",
+                    "impostor": "Forță"
+                },
+                {
+                    "secret": "Bani",
+                    "impostor": "Aur"
+                },
+                {
+                    "secret": "Muncă",
+                    "impostor": "Efort"
+                },
+                {
+                    "secret": "Vacanță",
+                    "impostor": "Weekend"
+                },
+                {
+                    "secret": "Libertate",
+                    "impostor": "Aer"
+                },
+                {
+                    "secret": "Pace",
+                    "impostor": "Liniște"
+                },
+                {
+                    "secret": "Război",
+                    "impostor": "Ceartă"
+                },
+                {
+                    "secret": "Căsătorie",
+                    "impostor": "Nuntă"
+                },
+                {
+                    "secret": "Divorț",
+                    "impostor": "Despărțire"
+                },
+                {
+                    "secret": "Sărut",
+                    "impostor": "Îmbrățișare"
+                },
+                {
+                    "secret": "Cadou",
+                    "impostor": "Surpriză"
+                },
+                {
+                    "secret": "Petrecere",
+                    "impostor": "Chef"
+                },
+                {
+                    "secret": "Aniversare",
+                    "impostor": "Zi de naștere"
+                },
+                {
+                    "secret": "Crăciun",
+                    "impostor": "Revelion"
+                },
+                {
+                    "secret": "Paște",
+                    "impostor": "Duminică"
+                },
+                {
+                    "secret": "Religie",
+                    "impostor": "Credință"
+                },
+                {
+                    "secret": "Dumnezeu",
+                    "impostor": "Preot"
+                },
+                {
+                    "secret": "Diavol",
+                    "impostor": "Rău"
+                },
+                {
+                    "secret": "Înger",
+                    "impostor": "Fantoma"
+                },
+                {
+                    "secret": "Rai",
+                    "impostor": "Cer"
+                },
+                {
+                    "secret": "Iad",
+                    "impostor": "Foc"
+                },
+                {
+                    "secret": "Școală",
+                    "impostor": "Educație"
+                },
+                {
+                    "secret": "Notă",
+                    "impostor": "Calificativ"
+                },
+                {
+                    "secret": "Examen",
+                    "impostor": "Test"
+                },
+                {
+                    "secret": "Temă",
+                    "impostor": "Proiect"
+                },
+                {
+                    "secret": "Vacanță",
+                    "impostor": "Concediu"
+                },
+                {
+                    "secret": "Salariu",
+                    "impostor": "Pensie"
+                },
+                {
+                    "secret": "Taxe",
+                    "impostor": "Furt"
+                },
+                {
+                    "secret": "Politică",
+                    "impostor": "Minciună"
+                },
+                {
+                    "secret": "Vot",
+                    "impostor": "Alegere"
+                },
+                {
+                    "secret": "Lege",
+                    "impostor": "Regulă"
+                },
+                {
+                    "secret": "Dreptate",
+                    "impostor": "Justiție"
+                },
+                {
+                    "secret": "Pedeapsă",
+                    "impostor": "Amendă"
+                },
+                {
+                    "secret": "Iertare",
+                    "impostor": "Scuză"
+                }
+            ]
+        }
+    ]
+}

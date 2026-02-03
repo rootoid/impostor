@@ -1,0 +1,10 @@
+{
+    "name": "impostor-game",
+    "version": "1.0.0",
+    "scripts": {
+        "start": "cd server && npm install && npm run build && npm start"
+    },
+    "engines": {
+        "node": "20.x"
+    }
+}
