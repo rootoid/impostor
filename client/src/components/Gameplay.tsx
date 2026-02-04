@@ -1,7 +1,7 @@
-import React, { useEffect } from 'react';
+import React from 'react';
 import { useGame } from '../context/GameContext';
 import { motion } from 'framer-motion';
-import { Mic, User } from 'lucide-react';
+import { Mic } from 'lucide-react';
 
 const Gameplay: React.FC = () => {
     const { gameState, endTurn, socket } = useGame();

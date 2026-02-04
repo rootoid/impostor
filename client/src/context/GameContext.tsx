@@ -19,6 +19,8 @@ export interface GameSession {
     players: Player[];
     currentRound: {
         category: string;
+        secretWord: string;
+        impostorWord: string;
         roundNumber: number;
         speakerOrder: string[];
         currentSpeakerIndex: number;
